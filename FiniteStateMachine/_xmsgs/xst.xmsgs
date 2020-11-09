@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="Xst" num="855" delta="old" >&quot;<arg fmt="%s" index="1">FSM.v</arg>&quot; line <arg fmt="%d" index="2">40</arg>: Unsupported procedural assignment for signal &lt;<arg fmt="%s" index="3">ns1</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="855" delta="old" >&quot;<arg fmt="%s" index="1">FSM.v</arg>&quot; line <arg fmt="%d" index="2">40</arg>: Unsupported procedural assignment for signal &lt;<arg fmt="%s" index="3">y</arg>&gt;.
+</msg>
+
+</messages>
+
