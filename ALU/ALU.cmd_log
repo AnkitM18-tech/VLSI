@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/USER/Desktop/Ankit VLSI/ALU_8/ALU.xst" -ofn "C:/Users/USER/Desktop/Ankit VLSI/ALU_8/ALU.syr" 
