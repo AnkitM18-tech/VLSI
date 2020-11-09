@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/OCAC/Desktop/Xillinx Programs/onenot/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/OCAC/Desktop/Xillinx Programs/onenot/xst"
+elaborate
+-ifn onenot.prj
+-ifmt mixed

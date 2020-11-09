@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/OCAC/Desktop/Xillinx Programs/onenot/testben_isim_beh.exe" -prj "C:/Users/OCAC/Desktop/Xillinx Programs/onenot/testben_beh.prj" "work.testben" "work.glbl" 
