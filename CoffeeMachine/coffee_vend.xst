@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/USER/Desktop/Ankit VLSI/coffee_machine/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/USER/Desktop/Ankit VLSI/coffee_machine/xst"
+elaborate
+-ifn coffee_vend.prj
+-ifmt mixed

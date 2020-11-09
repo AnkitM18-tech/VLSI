@@ -1,0 +1,29 @@
+Command line:
+   coffee_vend_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49582
+
+Fri Oct 25 16:51:56 2019
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 1014.26 Meg
+
+ Total Signals          : 20
+ Total Nets             : 26
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 17
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 137
+Total Line Count : 103
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 385.044 Meg
+
+Fri Oct 25 16:58:33 2019
+
