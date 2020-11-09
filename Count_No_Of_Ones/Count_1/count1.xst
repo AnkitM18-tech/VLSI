@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/USER/Desktop/Ankit VLSI/count1/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/USER/Desktop/Ankit VLSI/count1/xst"
+elaborate
+-ifn count1.prj
+-ifmt mixed
