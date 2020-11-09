@@ -1,0 +1,29 @@
+Command line:
+   median_mat_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49926
+
+Fri Nov 08 16:21:04 2019
+
+
+ Elaboration Time: 0.296875 sec
+
+ Current Memory Usage: 1171.57 Meg
+
+ Total Signals          : 23
+ Total Nets             : 173
+ Total Signal Drivers   : 15
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 18
+ Total Traceable Variables  : 30
+ Total Scalar Nets and Variables : 449
+Total Line Count : 62
+
+ Total Simulation Time: 0.3125 sec
+
+ Current Memory Usage: 1171.53 Meg
+
+Fri Nov 08 16:21:19 2019
+
