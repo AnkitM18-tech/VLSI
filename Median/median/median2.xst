@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/USER/Desktop/Ankit VLSI/Median/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/USER/Desktop/Ankit VLSI/Median/xst"
+elaborate
+-ifn median2.prj
+-ifmt mixed
