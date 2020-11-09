@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/OCAC/Desktop/Ankit Kumar Mohanty,1702070017/ticket/ticket_tb_isim_beh.exe" -prj "C:/Users/OCAC/Desktop/Ankit Kumar Mohanty,1702070017/ticket/ticket_tb_beh.prj" "work.ticket_tb" "work.glbl" 

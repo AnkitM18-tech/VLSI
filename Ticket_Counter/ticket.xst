@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/OCAC/Desktop/Ankit Kumar Mohanty,1702070017/ticket/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/OCAC/Desktop/Ankit Kumar Mohanty,1702070017/ticket/xst"
+elaborate
+-ifn ticket.prj
+-ifmt mixed
